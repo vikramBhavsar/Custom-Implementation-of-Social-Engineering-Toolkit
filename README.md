@@ -1,4 +1,4 @@
-# Custom-Implementation-of-Software-Engineering-Toolkit
+# Custom-Implementation-of-Social-Engineering-Toolkit
 Implementation of various functionality of remote backdoor from Social Engineering Toolkit. 
 
 ## Functionality Implemented:
